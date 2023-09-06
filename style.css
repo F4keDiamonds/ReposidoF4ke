@@ -1,0 +1,54 @@
+:root {
+    --cor-de-fundo: #fcf5f5;
+    --cor-cabecalho: #f59f00;
+    --fundo-menu: #000000; 
+
+}
+
+body{
+    background-color: var(--cor-de-fundo);
+
+}
+
+.cabecalho {
+    background-color: var(--cor-cabecalho);
+}
+
+.cabecalho-titulo {
+
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+}
+
+.cabecalho-menu {
+    background-color: var(--fundo-menu);
+}
+
+.cabecalho-menu-item {
+
+    display: block;
+    padding: 10px;
+    font-size: 24px;
+    text-decoration: none;
+    color: purple;
+    text-align: center;
+    border-top: 1px solid;
+}
+
+.SW4-1.jpg {
+
+    width: 300px;
+    text-align: center;
+
+
+}
+
+.download.png {
+
+    width: 300px;
+    text-align: center;
+
+    
+}
